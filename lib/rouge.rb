@@ -48,12 +48,6 @@ module Rouge
       # ignore
     end
   end
-
-  class Lexer
-    # def self.assert_utf8!(_)
-    #   # ignore
-    # end
-  end
 end
 
 require 'require_lexers'
